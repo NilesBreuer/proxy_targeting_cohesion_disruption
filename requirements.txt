@@ -1,0 +1,7 @@
+# requirements.txt
+
+# This code uses python==3.11.5; use of other Python versions may cause discrepancies between the results in cohesion_and_disruption_examples.ipynb and the test results
+
+# Core dependencies
+networkx==3.1
+pandas==2.0.3
